@@ -22,8 +22,6 @@ Focused on building data-driven UIs and delivering great user experiences with R
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeongdev&layout=compact&theme=default#gh-light-mode-only)](https://github.com/nayeongdev/github-readme-stats#gh-light-mode-only)
 -->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-hazel-eight.vercel.app?user=nayeongdev&theme=dark&card_width=467" alt="GitHub Streak" /></a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
